@@ -1,4 +1,4 @@
-mit-808-starter
+DSFSI Project Starter
 ==============================
 
 A short description of the project.
