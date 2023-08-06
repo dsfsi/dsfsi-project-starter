@@ -1,10 +1,8 @@
 # Model Card For [Model Name]
 
-_This documentation is aimed to help communicate key information about a machine learning model_
+_This documentation is aimed to help communicate key information about a machine learning model. This model card has been borrowed and adapted from [Annotated Hugging Face Model Card](https://huggingface.co/docs/hub/model-card-annotated). A model card can also be generated through [huggingface_hub library](https://huggingface.co/docs/huggingface_hub/guides/model-cards) which is a python interface._
 
 Last updated : August 2023. 
-
-_This model card is adapted from [Annotated Hugging Face Model Card](https://huggingface.co/docs/hub/model-card-annotated). A model card can also be generated through [huggingface_hub library](https://huggingface.co/docs/huggingface_hub/guides/model-cards) which is a python interface._
 
 Provide a short summary of model.
 
@@ -141,7 +139,7 @@ Provide the code needed to use the model.
 ## Citations 
 -----------
 
-Provide the preferred citation(usually a paper). 
+Provide the preferred citation (usually a paper). 
 
 BibTeX
 
