@@ -1,4 +1,5 @@
 # Data statement for [Dataset Name]
+==============================
 
 _This documentation is aimed to help provide the characteristic information about a dataset. This data statment card has been borrowed and adapted from [University of Washington Tech Policy Lab](https://techpolicylab.uw.edu/data-statements/)._
 
@@ -170,3 +171,8 @@ Provide any further information that may be relevant to the dataset.
 ------------
 
 Provide a list of terms and their definitions. This may include technical or unfamiliar to nonexperts terms. 
+
+## About this document
+-------------
+
+Include this information about the document verbatim at the end of your data statement. If you adapt the data statement template, include a note about your changes here
