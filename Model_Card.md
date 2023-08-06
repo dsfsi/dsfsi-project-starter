@@ -28,7 +28,7 @@ _This is intended to make it easier to navigate the different sections._
 
 _This section describes important background information of the developers and the model._
 
-Provide a longer summary of what this model is. 
+Provide a longer summary of what this model is. Include details such as the input and output of the model.  
 
 ### Model Description 
 
@@ -95,6 +95,7 @@ Provide a description of the model specifications
 
 ## Training Details 
 -----------
+
 _This section is intended to provide information that describes the training of the model, and can allow users to replicate the training._
 
 ### Training data 
